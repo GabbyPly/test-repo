@@ -1,3 +1,11 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: 'Something in the way'
+labels: 'bug'
+assignees: 'OriYosfanPly'
+
+---
 
 
 **Describe the bug**
@@ -33,11 +41,3 @@ If applicable, add screenshots to help explain your problem.
 **Additional context**
 Add any other context about the problem here.
 
----
-name: Bug report
-about: Create a report to help us improve
-title: 'Something in the way'
-labels: 'bug'
-assignees: 'OriYosfanPly'
-
----
