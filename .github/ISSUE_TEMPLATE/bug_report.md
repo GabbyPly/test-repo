@@ -16,14 +16,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: 'bug'
-assignees: 'GabbyPly'
 
----
 
 
 **Desktop (please complete the following information):**
@@ -40,3 +33,11 @@ assignees: 'GabbyPly'
 **Additional context**
 Add any other context about the problem here.
 
+---
+name: Bug report
+about: Create a report to help us improve
+title: 'Something in the way'
+labels: 'bug'
+assignees: 'OriYosfanPly'
+
+---
